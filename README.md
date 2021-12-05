@@ -5,3 +5,4 @@
 
 1. [Basics](/Basics)
 2. [Introductions to C++](/Introduction_to_C++)
+3. [Flowcharts](/Flowcharts)
