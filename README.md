@@ -7,3 +7,4 @@
 2. [Introductions to C++](/Introduction_to_C++)
 3. [Flowcharts](/Flowcharts)
 4. [Loops](/Loops)
+5. [Patterns](/Patterns)
