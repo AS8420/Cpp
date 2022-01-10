@@ -34,6 +34,8 @@ Write down the code
 
 6. Connector: ◯ 
 
+7. Predefined:  
+
 
 > ***Decision Box can only have two possible values***
 
