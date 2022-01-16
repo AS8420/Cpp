@@ -8,3 +8,4 @@
 3. [Flowcharts](/Flowcharts)
 4. [Loops](/Loops)
 5. [Patterns](/Patterns)
+6. [Arrays](/Arrays)
