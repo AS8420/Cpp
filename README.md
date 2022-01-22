@@ -9,6 +9,6 @@
 4. [Loops](/Loops)
 5. [Patterns](/Patterns)
 6. [Arrays](/Arrays)
-7. [Multidimensional_Array](/Multi_dimensional_Array)
+7. [Multidimensional_Array](/Multi-dimensional_Array)
 8. [Functions](/Functions)
 9. [Searching](/Searching)
