@@ -12,3 +12,4 @@
 7. [Multidimensional_Array](/Multi-dimensional_Array)
 8. [Functions](/Functions)
 9. [Searching](/Searching)
+10. [Sorting](/Sorting)
